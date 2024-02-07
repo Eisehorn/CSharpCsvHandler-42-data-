@@ -108,7 +108,6 @@ class Program
 									}
 									dictionary[i - 1].Add(splitString[0], splitString[1]);
 								}
-								//Thread.Sleep(2000);
 							}
 						}
 
