@@ -1,0 +1,66 @@
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/bin/Debug/net8.0/appsettings.Development.json
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/bin/Debug/net8.0/appsettings.json
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/bin/Debug/net8.0/csv handling
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/bin/Debug/net8.0/csv handling.deps.json
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/bin/Debug/net8.0/csv handling.runtimeconfig.json
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/bin/Debug/net8.0/csv handling.dll
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/bin/Debug/net8.0/csv handling.pdb
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/obj/Debug/net8.0/csv handling.csproj.AssemblyReference.cache
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/obj/Debug/net8.0/csv handling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/obj/Debug/net8.0/csv handling.AssemblyInfoInputs.cache
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/obj/Debug/net8.0/csv handling.AssemblyInfo.cs
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/obj/Debug/net8.0/csv handling.csproj.CoreCompileInputs.cache
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/obj/Debug/net8.0/csv handling.MvcApplicationPartsAssemblyInfo.cs
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/obj/Debug/net8.0/csv handling.MvcApplicationPartsAssemblyInfo.cache
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/obj/Debug/net8.0/staticwebassets.build.json
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/obj/Debug/net8.0/staticwebassets.development.json
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/obj/Debug/net8.0/staticwebassets/msbuild.csv handling.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/obj/Debug/net8.0/staticwebassets/msbuild.build.csv handling.props
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.csv handling.props
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.csv handling.props
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/obj/Debug/net8.0/scopedcss/bundle/csv handling.styles.css
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/obj/Debug/net8.0/csv handling.csproj.CopyComplete
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/obj/Debug/net8.0/csv handling.dll
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/obj/Debug/net8.0/refint/csv handling.dll
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/obj/Debug/net8.0/csv handling.pdb
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/obj/Debug/net8.0/csv handling.genruntimeconfig.cache
+/Users/fgiuliano/Desktop/42Roma/C# csv handling/csv handling/csv handling/obj/Debug/net8.0/ref/csv handling.dll
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/bin/Debug/net8.0/appsettings.Development.json
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/bin/Debug/net8.0/appsettings.json
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/bin/Debug/net8.0/csv handling
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/bin/Debug/net8.0/csv handling.deps.json
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/bin/Debug/net8.0/csv handling.runtimeconfig.json
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/bin/Debug/net8.0/csv handling.dll
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/bin/Debug/net8.0/csv handling.pdb
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/obj/Debug/net8.0/csv handling.csproj.AssemblyReference.cache
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/obj/Debug/net8.0/csv handling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/obj/Debug/net8.0/csv handling.AssemblyInfoInputs.cache
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/obj/Debug/net8.0/csv handling.AssemblyInfo.cs
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/obj/Debug/net8.0/csv handling.csproj.CoreCompileInputs.cache
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/obj/Debug/net8.0/csv handling.MvcApplicationPartsAssemblyInfo.cs
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/obj/Debug/net8.0/csv handling.MvcApplicationPartsAssemblyInfo.cache
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/obj/Debug/net8.0/staticwebassets.build.json
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/obj/Debug/net8.0/staticwebassets.development.json
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/obj/Debug/net8.0/staticwebassets/msbuild.csv handling.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/obj/Debug/net8.0/staticwebassets/msbuild.build.csv handling.props
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.csv handling.props
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.csv handling.props
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/obj/Debug/net8.0/scopedcss/bundle/csv handling.styles.css
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/obj/Debug/net8.0/csv handling.csproj.CopyComplete
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/obj/Debug/net8.0/csv handling.dll
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/obj/Debug/net8.0/refint/csv handling.dll
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/obj/Debug/net8.0/csv handling.pdb
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/obj/Debug/net8.0/csv handling.genruntimeconfig.cache
+/Users/fgiuliano/Desktop/42Roma/cSharpCsv/csv_handling/csv_handling/obj/Debug/net8.0/ref/csv handling.dll

@@ -1,0 +1,6 @@
+@csv_handling_HostAddress = http://localhost:5082
+
+GET {{csv_handling_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
